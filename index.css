@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'SourceCodePro';
+    src: url('/src/assets/font/SourceCodePro-VariableFont_wght.ttf');
+}
+@theme{
+    --font-primary: 'SourceCodePro', sans-serif;
+}

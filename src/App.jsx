@@ -42,7 +42,9 @@ function App() {
         },
       ]
     }
-  ])
+  ],{
+    basename: '/mobile-portfolio'
+  })
   return (
     isMobile?(
     <main className="min-h-screen w-screen overflow-x-hidden">

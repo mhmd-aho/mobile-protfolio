@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mhmd-aho.github.io/mobile-protfolio",
+  "homepage": "https://mhmd-aho.github.io/mobile-portfolio",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",

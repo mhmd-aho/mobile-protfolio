@@ -4,7 +4,7 @@ A mobile-first portfolio application built with React and Vite, designed to prov
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://mhmd-aho.github.io/mobile-protfolio)
+[View Live Demo](https://mhmd-aho.github.io/mobile-portfolio)
 
 ## ✨ Features
 
